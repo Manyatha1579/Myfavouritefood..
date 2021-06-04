@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap');
+
+body{
+    font-family: 'Odibee', sans-serif ;
+    background-color: aquamarine;
+    text-align: center;
+    padding: 20px;
+}
+
+h1{
+    color: black;
+    font-size: 60px;
+    padding: 10px;
+}
+
+h2{
+    color: black;
+    font-size: 40px;
+    padding: 10px;
+}
+
+p{
+    padding: 10px;
+    font-size: 20px;
+}
+
+img{
+    border: 5px solid black;
+    border-radius: 10px;
+}
+
+#chocolate{
+    width: 300px;
+    height: 300px;
+}
+
+#pizza{
+    width: 300px;
+    height: 300px;
+}
+
+#donuts{
+    width: 300px;
+    height: 300px;
+}
